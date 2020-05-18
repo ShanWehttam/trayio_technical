@@ -1,0 +1,15 @@
+{
+  "name": "trayio",
+  "version": "1.0.0",
+  "description": "trayio_technical",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Nash",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.5.0",
+    "cypress-cucumber-preprocessor": "^2.3.1"
+  }
+}
