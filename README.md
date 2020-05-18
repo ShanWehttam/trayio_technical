@@ -13,7 +13,7 @@ Prerequisites for developing JavaScript applications. You will probably already 
 
 Then you can get this thing running!
 
-1. Clone this repo and `cd` into its directory on your machine
+1. Clone this repo and `cd` into its directory on your machine (trayio_technical folder)
 2. Run `npm install`)
 
 ## Running Cypress tests from the command line
