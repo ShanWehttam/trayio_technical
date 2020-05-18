@@ -1,4 +1,4 @@
-Feature: Checkout purchase
+Feature: Checkout
 
 As a user
 I want to be able to purchase the contents of my shopping basket
@@ -10,4 +10,4 @@ Background:
 
   Scenario: purchasing products
   When I go to checkout
-  Then i should end up on the checkout page
+  Then I should end up on the checkout page
