@@ -1,7 +1,7 @@
 # trayio_technical
 
 ## SWAGLABS demo
-My weapon of choice for this task has been Cypress.
+My tool of choice for this task has been Cypress.
 I've also added the cucumber plugin to follow a process that respects user scenarios
 
 ## Installing the demo
@@ -22,7 +22,7 @@ Run the following:
 
     ./node_modules/.bin/cypress run
 
-You should see some stuff happening and two passing tests in your Terminal window.
+You should see some tests running in your Terminal window.
 
 ## Running Cypress from the GUI
 
