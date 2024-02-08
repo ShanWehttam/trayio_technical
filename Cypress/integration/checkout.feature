@@ -11,3 +11,6 @@ Background:
   Scenario: purchasing products
   When I go to checkout
   Then I should end up on the checkout page
+
+
+  scenarios
